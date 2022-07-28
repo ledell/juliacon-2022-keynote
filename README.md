@@ -8,4 +8,4 @@
 
 📺 [Watch here](https://mobile.twitter.com/JuliaConOrg/status/1552331135266332672)
 
-📓 [Slides](https://github.com/ledell/juliacon-2022-keynote/blob/main/juliacon_2022.pdf)
+📓 [Slides](https://github.com/ledell/juliacon-2022-keynote/blob/main/juliacon_2022_ledell.pdf)
