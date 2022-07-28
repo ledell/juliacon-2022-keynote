@@ -1,6 +1,6 @@
 # JuliaCon 2022 Keynote
 
-*"APIs and Community: Building for Success"* 
+*"APIs & Community: Building for Success"* 
 
 👩‍🏫 Keynote talk at [JuliaCon 2022](https://juliacon.org/2022/) by [Erin LeDell](https://twitter.com/ledell), Ph.D. 
 
